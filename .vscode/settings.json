@@ -1,0 +1,12 @@
+{
+    "java.project.sourcePaths": [
+        "StudentInformationSystem",
+        "JavaExercises",
+        "MineSweeperProject"
+    ],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar"
+    ],
+    "java.dependency.packagePresentation": "hierarchical"
+}
